@@ -74,8 +74,8 @@ a:hover {
 }
 
 .circular-frame {
-  width: 400px;  /* Adjust size as needed */
-  height: 400px; /* Keep width and height equal for a perfect circle */
+  width: 300px;  /* Adjust size as needed */
+  height: 300px; /* Keep width and height equal for a perfect circle */
   position: relative;
   overflow: hidden;
   border-radius: 50%;  /* This creates the perfect circle */
