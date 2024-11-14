@@ -49,7 +49,7 @@ This portfolio is designed to provide an overview of my professional and persona
 
 ## Usage
 
-1. Visit the live portfolio site [here](https://go.dev/doc).
+1. Visit the live portfolio site [here](https://portfolio-thadeus-projects-3857f7cc.vercel.app/).
 
 2. Explore different sections to learn about my work.
 
